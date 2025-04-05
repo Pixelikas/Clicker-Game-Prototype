@@ -2,6 +2,6 @@
 Basic clicker game, made using C# and Unity.<br>
 
 Mouse - Click<br>
-    Title Screen -> Start Game<br>
-    Game Screen -> Add Points<br>
+<&nbsp><&nbsp>Title Screen -> Start Game<br>
+<&nbsp><&nbsp>Game Screen -> Add Points<br>
 <br><br>
