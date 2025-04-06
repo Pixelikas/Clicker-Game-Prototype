@@ -5,6 +5,6 @@ Mouse (Click)<br>
 - Title Screen -> Start Game<br>
 - Game Screen -> Add Points<br>
 
-![print-clicker](https://github.com/user-attachments/assets/2b02c195-d3c4-4fd8-b349-3796358f7996)
+![print-clicker](https://github.com/user-attachments/assets/f0351982-4223-4a64-8f15-593696f08e06)
 
 <br><br>
